@@ -1,0 +1,8 @@
+.img{
+    display: flex;
+    margin: 15%;
+}
+.img img{
+    width: 100px;
+    margin: 5%;
+}
